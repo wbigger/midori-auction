@@ -6,7 +6,7 @@ applications:
   buildpack: sdk-for-nodejs
   command: npm start
   disk_quota: 1G
-  memory: 64MB
+  memory: 250MB
   domain: eu-gb.mybluemix.net
   host: node-red-jcdob
   services:
